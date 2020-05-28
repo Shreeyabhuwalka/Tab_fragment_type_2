@@ -11,6 +11,8 @@ import com.google.android.material.tabs.TabLayout;
 public class MainActivity extends AppCompatActivity {
     TabLayout mTabLayout;
     TabItem tabCurrent,tabRequest;
+///////// helping video:
+    //////        https://www.youtube.com/watch?v=B7ohofe-Nk8
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
